@@ -1,2 +1,2 @@
-# Summer-Accountabilitea-Project
+# Hair-detection-via-CNN
 Models built on breast cancer data
